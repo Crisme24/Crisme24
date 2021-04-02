@@ -11,9 +11,10 @@
 const jeimy = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [React, Redux, Node, Angular 9, Laravel, Lumen, Symfony 4 y 5, Bootstrap, GIT],
-  architecture: [microservices, monolithic, MVC pattern, API REST],
-  cms: [Magento 2, PrestaShop, WordPress]
+  tools: [React, Redux, Node, Angular 9, Laravel, Lumen, Symfony 3, 4 y 5, Bootstrap, GIT],
+  architecture: [microservices, monolithic, MVC pattern, API REST, GraphQL],
+  cms: [Magento 2, PrestaShop]
+  others: [RabbitMQ, Docker]
   
   
  challenge: "I am doing the #100DaysOfCode challenge focused on PHP 7 and Magento 2"
